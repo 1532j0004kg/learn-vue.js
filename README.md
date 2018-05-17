@@ -10,4 +10,6 @@ Dynamic using flags ==> https://codepen.io/dinesh007/pen/xjygVd
 
 if and for loop ==> https://codepen.io/dinesh007/pen/XqxMxy
 
+* Small project for above learning ==> https://codepen.io/dinesh007/pen/NMEPOp?editors=1010
+
 Note: Learned from https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
